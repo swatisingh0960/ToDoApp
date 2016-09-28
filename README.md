@@ -4,7 +4,7 @@ TodoApp is an android app that allows building a todo list and basic todo items 
 
 Submitted by: Swati Singh
 
-Time spent: 10 hours spent in total
+Time spent: 14 hours spent in total
 
 ## User Stories
 
@@ -20,18 +20,18 @@ The following **optional** features are implemented:
 * [x] Improve style of the todo items in the list [using a custom adapter](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView)
 * [ ] Add support for completion due dates for todo items (and display within listview item)
 * [ ] Use a [DialogFragment](http://guides.codepath.com/android/Using-DialogFragment) instead of new Activity for editing items
-* [x] Add support for selecting the priority of each todo item (and display in listview item)
+* [ ] Add support for selecting the priority of each todo item (and display in listview item)
 * [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
 The following **additional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality! - Used a Layout Inflator
+* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/swatisingh0960/ToDoApp/blob/master/ezgif-3389169158.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/swatisingh0960/ToDoApp/blob/master/ezgif-755508113.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with EZgif.
 
